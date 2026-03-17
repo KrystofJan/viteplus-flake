@@ -1,0 +1,17 @@
+{
+  "latest": "0.1.12",
+  "platforms": {
+    "x86_64-linux": "linux-x64-gnu",
+    "aarch64-linux": "linux-arm64-gnu",
+    "x86_64-darwin": "darwin-x64",
+    "aarch64-darwin": "darwin-arm64"
+  },
+  "versions": {
+    "0.1.12": {
+      "x86_64-linux": "19ig3kbjwnn207i9w5ynvfmmyb4zfc038ivd7map1jzccqlzllja",
+      "aarch64-linux": "0ah5jdjn0mbpqvndi0abym038mrs12zf4xxsly3k84lx2ngnnp6p",
+      "x86_64-darwin": "1jibxkyj00672ck4n9yl14x2fk8r9qxk7vfchj101qq4ny9gn2dv",
+      "aarch64-darwin": "10ihcp1l6rw6f6pnwvjx4w5d55hx2a3rb62qy9jg5kn2vqnv4snz"
+    }
+  }
+}
