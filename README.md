@@ -49,3 +49,15 @@ The script updates `versions.json` and sets the `latest` pointer.
 - `vite-plus` / `default` — latest version
 - `vite-plus-X_Y_Z` — specific version (e.g., `vite-plus-0_1_12`)
 
+## Limitations
+
+This package provides the native `vp` CLI binary. Commands that require
+Node.js dependencies (like `vp create`) need to be run within a project
+that has `vite-plus` installed via npm/pnpm.
+
+For a fully standalone installation, use the official installer:
+
+```bash
+curl -fsSL https://vite.plus | bash
+```
+
